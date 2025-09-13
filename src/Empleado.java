@@ -21,6 +21,8 @@ import java.util.logging.Logger;
  */
 
 //hola mundos
+
+//como estas muchacho
 public class Empleado extends javax.swing.JFrame {
     CreateConection  conexionPostgres = new CreateConection();
     Connection con;
